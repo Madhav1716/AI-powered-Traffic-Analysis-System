@@ -88,7 +88,7 @@ source venv/bin/activate
 
 2. Run the application:
 ```bash
-streamlit run final.py
+streamlit run app.py
 ```
 
 3. Using the Application:
@@ -132,7 +132,7 @@ streamlit run final.py
 
 ```
 AI-powered-Traffic-Analysis-System/
-├── final.py              # Main application file
+├── app.py               # Main application file
 ├── requirements.txt      # Project dependencies
 ├── README.md            # Project documentation
 ├── .gitignore           # Git ignore file
