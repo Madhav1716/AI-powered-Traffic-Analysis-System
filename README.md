@@ -1,6 +1,6 @@
 # AI Traffic Analysis System 🚗
 
-A sophisticated traffic monitoring solution that combines computer vision and machine learning to provide real-time insights into traffic patterns.
+A sophisticated traffic monitoring solution developed by Madhav that combines computer vision and machine learning to provide real-time insights into traffic patterns. This project is the result of individual development and research in the field of computer vision and traffic analysis.
 
 ## Features 🌟
 
@@ -211,6 +211,17 @@ For more information about the MIT License, visit: https://opensource.org/licens
 
 ## Acknowledgments 🙏
 
-- YOLOv5 team for the object detection model
-- Streamlit team for the amazing web framework
-- OpenCV community for computer vision tools 
+This project was developed individually by Madhav, with the following open-source tools and libraries:
+
+- YOLOv5 by Ultralytics for the object detection model
+- Streamlit for the amazing web framework
+- OpenCV for computer vision tools
+- PyTorch for deep learning capabilities
+
+Special thanks to the open-source community for providing these excellent tools that made this project possible.
+
+## Author 👨‍💻
+
+- **Madhav** - *Individual Developer* - [GitHub Profile](https://github.com/Madhav1716)
+
+This project is a personal initiative to contribute to the field of traffic analysis and computer vision. All development, testing, and documentation was done independently. 
