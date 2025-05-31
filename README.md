@@ -186,7 +186,28 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License 📄
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### What you can do with this project:
+
+- ✅ Use it for commercial purposes
+- ✅ Modify the code
+- ✅ Distribute your modifications
+- ✅ Use it privately
+- ✅ Use it for patent purposes
+
+### What you must do:
+
+- ℹ️ Include the original copyright notice
+- ℹ️ Include the MIT License text
+- ℹ️ State significant changes made to the software
+
+### What you cannot do:
+
+- ❌ Hold the authors liable for any damages
+- ❌ Remove the license and copyright notices
+
+For more information about the MIT License, visit: https://opensource.org/licenses/MIT
 
 ## Acknowledgments 🙏
 
