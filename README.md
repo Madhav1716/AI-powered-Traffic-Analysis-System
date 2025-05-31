@@ -47,10 +47,33 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-3. Install dependencies:
+3. Install YOLOv5:
+```bash
+# Clone YOLOv5 repository
+git clone https://github.com/ultralytics/yolov5.git
+cd yolov5
+
+# Install YOLOv5 requirements
+pip install -r requirements.txt
+
+# Return to main project directory
+cd ..
+```
+
+4. Install project dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+5. Download YOLOv5 weights (if not already included):
+```bash
+# The yolov5s.pt file should be in the project directory
+# If not, you can download it using:
+wget https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt
+```
+
+Note: If you're on Windows and don't have wget, you can manually download the weights from:
+https://github.com/ultralytics/yolov5/releases/download/v7.0/yolov5s.pt
 
 ## Usage 🚀
 
